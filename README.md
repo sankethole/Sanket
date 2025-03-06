@@ -1,2 +1,3 @@
 # Sanket
-this is my frist repo
+this is my frist repository
+author -Sanket hole
